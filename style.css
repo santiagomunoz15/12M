@@ -53,6 +53,59 @@ h1 {
     align-items: center;
 }
 
+.gallery {
+    margin: 5% 45% -3% 5%;
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+}
+
+.gallery-title {
+    margin: 5% 45% 0% 5%;
+    display: flex;
+}
+
+.gallery2 {
+    margin: 0% 45% 0% 5%;
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+}
+
+.gallery3 {
+    margin: -2% 45% 0% 5%;
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+}
+
+.gallery4 {
+    margin: -3% 45% 5% 5%;
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+}
+
+.gallery-image1 {
+    border-radius: 10px;
+    -webkit-box-shadow: 2px 4px 36px 3px rgba(71,71,71,0.52);
+    -moz-box-shadow: 2px 4px 36px 3px rgba(71,71,71,0.52);
+    box-shadow: 2px 4px 36px 3px rgba(71,71,71,0.52);
+    height: fit-content;
+}
+
+.gallery-image2 {
+    align-content: flex-end;
+    border-radius: 10px;
+    -webkit-box-shadow: 2px 4px 36px 3px rgba(71,71,71,0.52);
+    -moz-box-shadow: 2px 4px 36px 3px rgba(71,71,71,0.52);
+    box-shadow: 2px 4px 36px 3px rgba(71,71,71,0.52);
+    margin: auto;
+    height: fit-content;
+}
+
+
+
 .footer-text {
     margin: 0;
     margin-top: 30px;
