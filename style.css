@@ -41,6 +41,7 @@ h1 {
     }
     
     .pic {
+        height: 100%;
         border-radius: 10px;
         -webkit-box-shadow: 2px 2px 36px -5px rgba(0,0,0,0.4);
         -moz-box-shadow: 2px 2px 36px -5px rgba(0,0,0,0.4);
@@ -80,14 +81,12 @@ h1 {
         justify-content: space-around;
         height: 450px;
     }
-    
     .gallery4 {
         margin: -2% 45% -2% 5%;
         display: flex;
         justify-content: space-around;
         height: 450px;
     }
-    
     .gallery5 {
         margin: -2% 45% -2% 5%;
         display: flex;
